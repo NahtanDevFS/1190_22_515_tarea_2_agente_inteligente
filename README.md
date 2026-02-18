@@ -7,6 +7,8 @@ Para clasificar si el jugador está usando piedra, papel o tijera se definieron 
 
 - Se le proporcionó a la IA un array con los jugadas que ha hecho el jugador (las últimas 15), para que en caso de que el jugador saque muchas veces la misma opción o siga algún patrón, la IA pueda anticiparse para ganar.
 
+En el requirements.txt están todas las dependencias y librerías necesarias para ejecutar el proyecto.
+
 
 <img width="1915" height="1025" alt="image" src="https://github.com/user-attachments/assets/247f985b-98a4-4a54-8196-cc2e0f2291a5" />
 
