@@ -5,7 +5,7 @@ Tarea 2: Agente inteligente capaz de jugar piedra, papel o tijera mediante visi�
 
 Para clasificar si el jugador está usando piedra, papel o tijera se definieron las coordenadas tridimensionales de la mano mediante mediapipe y reglas geométricas para clasificar los gestos de la mano (puño, dedos índice y medio alzados y mano abierta)
 
-- Se le proporcionó a la IA un array con los jugadas que ha hecho el jugador (las últimas 15), para que en caso de que el jugador saque muchas veces la misma opción o siga algún patrón, la IA pueda anticiparse para ganar.
+Se le proporcionó a la IA un array con los jugadas que ha hecho el jugador (las últimas 15), para que en caso de que el jugador saque muchas veces la misma opción o siga algún patrón, la IA pueda anticiparse para ganar.
 
 En el requirements.txt están todas las dependencias y librerías necesarias para ejecutar el proyecto.
 
